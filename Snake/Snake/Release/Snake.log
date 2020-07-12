@@ -1,0 +1,9 @@
+﻿  main.cpp
+  menu.cpp
+  waz.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+E:\Snake\Snake\Snake\waz.cpp(158): warning C4715: 'waz::glowa': not all control paths return a value
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake.vcxproj -> E:\Snake\Snake\Release\Snake.exe

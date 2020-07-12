@@ -1,0 +1,6 @@
+﻿  main.cpp
+  menu.cpp
+  waz.cpp
+  Generating Code...
+E:\Snake\Snake\Snake\waz.cpp(158): warning C4715: 'waz::glowa': not all control paths return a value
+  Snake.vcxproj -> E:\Snake\Snake\Debug\Snake.exe
