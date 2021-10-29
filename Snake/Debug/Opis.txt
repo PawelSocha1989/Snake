@@ -1,6 +1,15 @@
-﻿Do sterowania projektem używamy klawiatury.
+Polski
+Do sterowania projektem używamy klawiatury.
 Aby poruszać się po menu używamy strzałek.
 Aby przejść do grania naciskamy Enter po podświetleniu napisu Nowa Gra.
 Aby poruszać się wężem używamy strzałek.
 Gdy chcmy zakończyć grę wystarczy wcisnąć ESC.
 Chcąc wyjść z gry wciskamy Enter po podświatelniu napisu Wyjście lub wciskamy ESC.
+
+English
+We use the keyboard to control the project.
+To navigate through the menu, use the arrows.
+To start playing, press Enter after highlighting the New Game inscription.
+To move the snake we use arrows.
+When we want to end the game, just press ESC.
+To exit the game press Enter after highlighting the word Exit or press ESC.
