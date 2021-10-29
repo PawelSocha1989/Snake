@@ -17,4 +17,5 @@ The game is to collect as many points as possible, which are added when we get t
 Probably everyone has played the popular snake game on Nokia 3310. Details of the full controls are presented in the file Opis.txt.
 
 Links
+
 http://gamescomingfromthesoul.pl/snake/
