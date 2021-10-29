@@ -1,5 +1,7 @@
 # Snake
 
+Polish
+
 Powyższy projekt został on stworzony w języku C++ oraz za pomocą biblioteki Allegro. 
 Projekt został wykonany w środowisku Microsoft Visual Studio. 
 Gra polega na tym aby skompletować jak najwięcej punktów, które są dodawane gdy zdobędziemy kolejne części ogona. 
@@ -7,7 +9,7 @@ Chyba każdy grał w popularną grę snake na nokii 3310. Szczegóły opisujące
 
 
 
-# Snake
+English
 
 The above project was created in C ++ and using the Allegro library.
 The project was made in the Microsoft Visual Studio environment.
