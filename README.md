@@ -18,4 +18,4 @@ Probably everyone has played the popular snake game on Nokia 3310. Details of th
 
 Links
 
-http://gamescomingfromthesoul.pl/snake/
+https://www.youtube.com/watch?v=X2xYmxgVYRQ&ab_channel=GamesComingFromTheSoul/
